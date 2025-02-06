@@ -1,2 +1,2 @@
-# Who-Wants-to-Be-a-Millionaire.github.io
+# Who-Wants-to-Be-a-Millionaire
 The game I designed inspired by a traditional show
