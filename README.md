@@ -6,4 +6,4 @@ Click enter to start the game, use the up, down, left, and right buttons to cont
 
 At the same time, you can also choose to use the toolbox when you encounter a problem you don't know. There are two tools in the toolbox. You can use tool A to randomly eliminate an incorrect answer, or use tool B to ask the audience the question, and they will tell you an answer, but its probability of being correct is only 64%. Attention! There is only one chance to use the toolbox in a game! Please use it wisely!
 
-![image]https://github.com/Zinu0WANG/Who-Wants-to-Be-a-Millionaire.github.io/blob/main/GUI.jpg
+![image](https://github.com/Zinu0WANG/Who-Wants-to-Be-a-Millionaire.github.io/blob/main/GUI.jpg)
